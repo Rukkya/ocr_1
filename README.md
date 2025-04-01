@@ -84,9 +84,6 @@ ocr-web-app/
 ## 🤝 Contributing
 Pull requests are welcome! If you'd like to contribute, please fork the repo and submit a PR.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 🙌 Acknowledgments
 - **Tesseract OCR** for text recognition.
 - **Gradio** for the interactive UI.
